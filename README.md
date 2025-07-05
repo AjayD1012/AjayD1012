@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ajay Dadke</h1>
-<h3 align="center">A passionate frontend(React) developer from India</h3>
+<h3 align="center">🎯 A passionate and motivated **Java developer** from India, actively learning full-stack development and building real-world projects to master my skills.
+</h3>
 
-- 🌱 I’m currently learning **Java programming and**
+ 🌱 Currently learning **Java**, **JSP/Servlets**, **JDBC**, and **Spring Framework** for full-stack web development.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AjayD1012](https://github.com/AjayD1012)
-
-- 💬 Ask me about **Javascript, React.js, HTML, CSS,**
-
-- 📫 How to reach me **ajaydadke10@gmail.com**
-
+- 👨‍💻 Practicing by building CRUD-based web applications using **JSP + Servlet + JDBC**.
+- 📚 A committed learner, always curious to explore new technologies and build something meaningful.
+-💻 having knowledge of  **Frontend technologies** like **HTML**, **CSS**, **JavaScript**, and basic **React.js**.
+- 📚 A committed learner, always curious to explore new technologies and build something meaningful.
+- 🎯 Looking for **internships** or **entry-level opportunities** in **Java development** to kickstart my career.
 - ⚡ Fun fact **fact word only created to defeat the myths .**
 
-<h3 align="left">Connect with me:</h3>
+ 🛠️ Tech Stack
+
+- ☕ Java SE, JDBC, Servlets, JSP
+- 🌐 HTML5, CSS3, JavaScript
+- 💻 MySQL, Git & GitHub
+- 🛠️ Tools: Eclipse IDE, IntelliJ IDEA, Apache Tomcat
+- 🌱 Learning: Spring Core, Spring Boot (coming up next!)
+
+<h3 align="left"## 📬 Contact Me
+
+- 📧 Email: **ajaydadke10@gmail.com**
+- 💬 Open for discussions, collaborations, and internship/job opportunities.
+</h3>
+
+⭐ *Thanks for visiting my profile! Let's connect and grow together in tech.* 🚀
 <p align="left">
 <a href="https://twitter.com/ajay_1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajay_1012" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay dadke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay dadke" height="30" width="40" /></a>
